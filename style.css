@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h6 {
+    font-weight: 200;
+    width: 100%;
+    background-color: purple;
+    color: white;
+    text-align: right;
+    height: 20px;
+  
+}
+.contain {
+    border: 10px solid black;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.center {
+
+    justify-content: space-between;
+}
+
+.row-cols button {
+    background: rgb(66, 66, 240);
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a {
+    text-decoration: none;
+    padding: 4px;
+    color: black;
+}
+
+.navdiv {
+    justify-content: space-between;
+}
+
+.progress {
+    background: rgb(19, 182, 247);
+    height: 1px;
+}
+
+h2 {
+    font-size: 18px;
+
+}
+
+span {
+    font-size: 10px;
+}
+
+.col li {
+    padding: 1px;
+    font-size: 10px;
+}
+
+.col li:nth-child(1) {
+
+    background: rgb(71, 71, 245);
+}
+
+.col ul :hover {
+    background-color: rgb(71, 71, 245);
+}
+
+.col h1 {
+    margin-top: 140px;
+}
+
+.btn {
+    background: rgb(220, 19, 220);
+}
+
+.last {
+    height: 30px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+.logo li {
+    font-size: 9px;
+}
+
+.nav-item p {
+    margin-left:100px;
+}
+.down{
+    margin-top: 150px;
+}
